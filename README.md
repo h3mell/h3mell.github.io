@@ -49,4 +49,31 @@
   </main>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My Site</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="photos.html">Photos</a>
+      <a href="blog.html">Blog</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Blog</h2>
+    <div class="post">
+      <h3>My first post</h3>
+      <p class="date">October 5, 2026</p>
+      <p>Write your first post here. Copy this whole block to add more posts.</p>
+    </div>
+  </main>
+</body>
+</html>
 
