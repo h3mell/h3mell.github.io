@@ -18,7 +18,7 @@
   </header>
   <main>
     <h2>Welcome</h2>
-    <p>Hi, I'm [your name]. This is where I share my photos and write about things I care about.</p>
+    <p>Hi, I'm [Sheik F Rabbi]. This is where I share my photos and write about things I care about.</p>
   </main>
 </body>
 </html>
