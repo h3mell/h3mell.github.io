@@ -66,7 +66,7 @@
     <div class="post">
       <h3>My first post</h3>
       <p class="date">October 5, 2026</p>
-      <p>Write your first post here. Copy this whole block to add more posts.</p>
+      <p></p>
     </div>
   </main>
 </body>
