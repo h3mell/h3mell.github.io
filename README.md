@@ -28,7 +28,7 @@
 </head>
 <body>
   <header>
-    <h1>My Site</h1>
+    <h1>Gallery</h1>
     <nav>
       <a href="index.html">Home</a>
       <a href="photos.html">Photos</a>
