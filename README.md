@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <h1>My Site</h1>
+    <h1> </h1>
     <nav>
       <a href="index.html">Home</a>
       <a href="photos.html">Photos</a>
@@ -36,7 +36,7 @@
     </nav>
   </header>
   <main>
-    <h2>Photos</h2>
+    <h2> </h2>
     <div class="gallery">
       <img src="images/photo1.jpg" alt="Photo 1">
       <img src="images/photo2.jpg" alt="Photo 2">
@@ -54,7 +54,7 @@
 </head>
 <body>
   <header>
-    <h1>My Site</h1>
+    <h1>BLOG</h1>
     <nav>
       <a href="index.html">Home</a>
       <a href="photos.html">Photos</a>
@@ -62,7 +62,7 @@
     </nav>
   </header>
   <main>
-    <h2>Blog</h2>
+    <h2> </h2>
     <div class="post">
       <h3>My first post</h3>
       <p class="date">October 5, 2026</p>
