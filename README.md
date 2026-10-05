@@ -63,14 +63,6 @@
   </header>
   <main>
     <h2> </h2>
-    <div class="post">
-      <h3>Story 1</h3>
-      <p class="date">October 5, 2026</p>
-      <p></p>
-    </div>
-  </main>
-</body>
-</html>
 <div class="post">
   <h3>Hello, and welcome to my little corner</h3>
   <p class="date">October 5, 2026</p>
